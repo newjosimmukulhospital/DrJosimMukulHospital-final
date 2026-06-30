@@ -1,0 +1,6 @@
+{
+  "name": "Hospital & Diagnostic Management",
+  "description": "একটি আধুনিক হসপিটাল এবং ডায়াগনস্টিক ম্যানেজমেন্ট সফটওয়্যার যা গুগল শিটস এবং এআই প্রেসক্রিপশন জেনারেশন সাপোর্ট করে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
